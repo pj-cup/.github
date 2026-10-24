@@ -13,7 +13,7 @@
 
 ## Season 1
 
-Live standings, rank changes, the full head-to-head grid and player cards (with insights, compare and shareable card images) are on the site:
+Live standings, rank changes, league progress, the full head-to-head grid and player cards (with insights, compare, who is still to play and shareable card images) are on the site:
 
 👉 **[pj-cup.github.io](https://pj-cup.github.io/)**
 
@@ -30,4 +30,4 @@ Points: **3** for a win, **1** for a draw.
 
 | Repo | What |
 | --- | --- |
-| [pj-cup.github.io](https://github.com/pj-cup/pj-cup.github.io) | Static site generated from dated CSV snapshots by a stdlib-only Python build |
+| [pj-cup.github.io](https://github.com/pj-cup/pj-cup.github.io) | Static site generated from dated CSV snapshots by a stdlib-only Python build, with a consistency checker for each snapshot |
