@@ -21,8 +21,8 @@ Live standings, rank changes, the full head-to-head grid and player cards (with 
 
 - 📌 **2 Set** — every match is best of two sets
 - 📌 **First of 4 games** — first to 4 games wins the set
-- 📌 **1-1 Set = Draw** — a split match counts as a draw
-- 📌 **Deuce Death** — no-ad scoring at deuce
+- 📌 **1-1 Set = Draw** — if each player wins one set, the match is a draw and each player gets 1 point
+- 📌 **Deuce Death** — one advantage at deuce; if it returns to deuce, the next point wins the game
 
 Points: **3** for a win, **1** for a draw.
 
