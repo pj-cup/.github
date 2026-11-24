@@ -31,3 +31,4 @@ Points: **3** for a win, **1** for a draw.
 | Repo | What |
 | --- | --- |
 | [pj-cup.github.io](https://github.com/pj-cup/pj-cup.github.io) | Static site generated from dated CSV snapshots by a stdlib-only Python build, with a consistency checker for each snapshot |
+| [racket](https://github.com/pj-cup/racket) | [PJ Racket](https://pj-cup.github.io/racket/): browse tennis racket specs and compare rackets side by side. A static site with no build step |
